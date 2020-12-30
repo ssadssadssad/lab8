@@ -1,0 +1,26 @@
+C:\Users\grish\source\repos\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+C:\Users\grish\source\repos\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+C:\Users\grish\source\repos\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+C:\Users\grish\source\repos\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+C:\Users\grish\source\repos\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\grish\source\repos\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\grish\source\repos\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\grish\source\repos\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\grish\source\repos\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\obj\Debug\netcoreapp3.1\Lab8.csprojAssemblyReference.cache
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\aloplsdd\Desktop\Новая папка (4)\Lab8-master\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache
